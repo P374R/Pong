@@ -13,6 +13,7 @@ Jump into **Pong**, a game inspired by one of the first games ever made.
 ##  Credits & Asset Attribution
 
 All assets are made by P374R
+
 ---
 
 ##  License
