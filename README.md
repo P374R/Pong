@@ -1,4 +1,4 @@
-# Welcome to Steep Leap! 
+# Welcome to PONG!
 
 <a href="https://p374r.itch.io/pong"><img src="https://static.itch.io/images/badge-color.svg" width="150" alt="Available on itch.io"></a>
 
